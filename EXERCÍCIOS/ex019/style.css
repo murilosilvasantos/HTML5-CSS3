@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(244, 215, 153);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#prince{
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color:blue
+}
